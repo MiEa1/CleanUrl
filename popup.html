@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title><span id="titleText"></span></title>
+  <style>
+    body {
+      font-family: "Segoe UI", sans-serif;
+      width: 280px;
+      padding: 15px;
+    }
+    h2 {
+      font-size: 18px;
+      margin-bottom: 10px;
+    }
+    button {
+      margin-top: 10px;
+      width: 100%;
+      padding: 10px;
+      font-size: 15px;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      background-color: #0078d4;
+      color: white;
+    }
+    button:hover {
+      background-color: #005ea6;
+    }
+    small {
+      display: block;
+      margin-top: 20px;
+      text-align: center;
+    }
+    a {
+      color: #0078d4;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <h2 id="extTitle"></h2>
+  <button id="cleanClipboard"></button>
+  <button id="cleanAndVisit"></button>
+  <small>
+    📁 <span id="projectLink"></span><br>
+    <a href="https://github.com/miea1/CleanUrl" target="_blank">github.com/miea1/CleanUrl</a>
+  </small>
+  <script src="popup.js"></script>
+</body>
+</html>
