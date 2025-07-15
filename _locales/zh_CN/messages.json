@@ -1,0 +1,20 @@
+{
+  "extName": {
+    "message": "CleanUrl 链接净化工具"
+  },
+  "extDescription": {
+    "message": "净化剪切板链接，去除隐写字符并打开正确网址。"
+  },
+  "extTitle": {
+    "message": "CleanUrl 链接净化"
+  },
+  "cleanClipboard": {
+    "message": "净化剪切板"
+  },
+  "cleanAndVisit": {
+    "message": "净化并访问"
+  },
+  "projectLink": {
+    "message": "项目链接："
+  }
+}
