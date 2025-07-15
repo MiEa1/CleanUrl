@@ -72,7 +72,7 @@ CleanUrl 是一个浏览器插件（适用于 Microsoft Edge 和 Chromium 内核
 
 ## 📜 License
 
-MIT License
+This project release with Apache-2.0 license
 
 ---
 
