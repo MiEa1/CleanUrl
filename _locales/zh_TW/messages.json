@@ -1,0 +1,20 @@
+{
+  "extName": {
+    "message": "CleanUrl 連結淨化工具"
+  },
+  "extDescription": {
+    "message": "淨化剪貼簿連結，去除隱寫字元並開啟正確網址。"
+  },
+  "extTitle": {
+    "message": "CleanUrl 連結淨化"
+  },
+  "cleanClipboard": {
+    "message": "淨化剪貼簿"
+  },
+  "cleanAndVisit": {
+    "message": "淨化並開啟"
+  },
+  "projectLink": {
+    "message": "項目連結："
+  }
+}
