@@ -1,0 +1,20 @@
+{
+  "extName": {
+    "message": "CleanUrl Link Cleaner"
+  },
+  "extDescription": {
+    "message": "Clean obfuscated characters from clipboard URLs and open valid websites."
+  },
+  "extTitle": {
+    "message": "CleanUrl Link Cleaner"
+  },
+  "cleanClipboard": {
+    "message": "Clean Clipboard"
+  },
+  "cleanAndVisit": {
+    "message": "Clean & Visit"
+  },
+  "projectLink": {
+    "message": "Project link:"
+  }
+}
